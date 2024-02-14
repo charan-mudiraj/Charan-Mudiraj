@@ -1,6 +1,4 @@
-### Hi there 👋
-## I'm Charan
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charan-Mudiraj&show_icons=true&theme=radical)
+![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charan-Mudiraj&show_icons=true&theme=radical)
 <!--
 **Charan-Mudiraj/Charan-Mudiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
