@@ -1,6 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan-Mudiraj&layout=compact)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+![](https://komarev.com/ghpvc/?username=Charan-Mudiraj&style=flat-square)
 <!--
 **Charan-Mudiraj/Charan-Mudiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
