@@ -1,15 +1,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan-Mudiraj&layout=compact)
 
 ## Tech Stack
-| WebDev | DevOps | Programming |
-| --- | --- | --- |
-|
-<img src="https://skillicons.dev/icons?i=git" />
-|
-<img src="https://skillicons.dev/icons?i=git" />
-|
-<img src="https://skillicons.dev/icons?i=git" />
-|
+| WebDev | MobileDev | Database |  DevOps | Programming | Other |
+| --- | --- | --- | --- | --- | --- |
+|<img src="https://skillicons.dev/icons?i=bootstrap,css,express,html,js,jquery,materialui,nodejs,react,tailwind,ts&perline=5" />|<img src="https://skillicons.dev/icons?i=dart,flutter" />|<img src="https://skillicons.dev/icons?i=firebase,mongodb" />|<img src="https://skillicons.dev/icons?i=docker" />|<img src="https://skillicons.dev/icons?i=c,java" />|<img src="https://skillicons.dev/icons?i=ps" />|
 <!--
 **Charan-Mudiraj/Charan-Mudiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
