@@ -1,5 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan-Mudiraj&layout=compact)
-
+![](https://leetcard.jacoblin.cool/charan-mudiraj?border=0&radius=20)
 ## Tech Stack
 | WebDev | MobileDev | Database |  DevOps | Programming | Other |
 | --- | --- | --- | --- | --- | --- |
