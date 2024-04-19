@@ -1,3 +1,11 @@
+🎉Congratulations !
+You have reached the codebase of one of the best developer.
+Don't believe me ?....Just check the quality of my Projects. It'll be worth your time.
+- [Chat App / WhatsApp Clone](https://github.com/charan-mudiraj/Chat-App)
+- [Get JSON - Community Tool](https://github.com/charan-mudiraj/Get-JSON---Frontend)
+- [Amazon Clone](https://github.com/charan-mudiraj/Amazon-Clone)
+- [Flash Chat - Android App](https://github.com/charan-mudiraj/Flash-Chat)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charan-mudiraj&layout=compact)
 ![](https://leetcard.jacoblin.cool/charan-mudiraj?border=0&radius=20)
 ## Tech Stack
