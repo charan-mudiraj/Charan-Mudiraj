@@ -12,7 +12,7 @@
 ## Little About Me:
 🌱 I’m currently learning **NextJS**.
 
-🔭 I’m currently looking for **Internship Opportunities**.
+🔭 I’m currently looking for **Internship Opportunities** on **Web Developement**.
 
 💬 Ask me about **MERN**.
 
