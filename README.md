@@ -9,6 +9,17 @@
 3. [Amazon Clone](https://github.com/charan-mudiraj/Amazon-Clone)
 4. [Flash Chat - Android App](https://github.com/charan-mudiraj/Flash-Chat)
 
+## Little About Me:
+🌱 I’m currently learning **NextJS**.
+
+🔭 I’m currently looking for **Internship Opportunities**.
+
+💬 Ask me about **MERN**.
+
+📫 How to reach me: **<a href="mailto:r.charan.m.gm@gmail.com">Send email</a>**
+
+⚡ Fun fact: I'm capable of coding for **18+ hours** straight, **without sleep**.
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charan-mudiraj&layout=compact)
 ![](https://leetcard.jacoblin.cool/charan-mudiraj?border=0&radius=20)
 ## Tech Stack
