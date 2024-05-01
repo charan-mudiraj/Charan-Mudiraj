@@ -18,6 +18,8 @@
 
 📫 How to reach me: **<a href="mailto:r.charan.m.gm@gmail.com">Send email</a>**
 
+📝 I Write Bogs at: **<a href="https://hashnode.com/@CharanM">Hashnode</a>**
+
 ⚡ Fun fact: I'm capable of coding for **18+ hours** straight, **without sleep**.
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charan-mudiraj&layout=compact)
