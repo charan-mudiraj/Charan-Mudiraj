@@ -10,9 +10,13 @@
 4. [Flash Chat - Android App](https://github.com/charan-mudiraj/Flash-Chat)
 
 ## Little About Me:
+<!---
 🌱 I’m currently learning **NextJS**.
-
+--->
+<!---
 🔭 I’m currently looking for **Internship Opportunities** on **Web Developement**.
+--->
+💼 I’m currently working as a **Full-Stack Developer Intern** at **Wuri (YC W24)**
 
 💬 Ask me about **MERN**.
 
