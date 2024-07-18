@@ -27,7 +27,6 @@
 ⚡ Fun fact: I'm capable of coding for **18+ hours** straight, **without sleep**.
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charan-mudiraj&layout=compact)
-![](https://leetcard.jacoblin.cool/charan-mudiraj?border=0&radius=20)
 ## Tech Stack
 | WebDev | MobileDev | Database |  DevOps | Programming | Other |
 | --- | --- | --- | --- | --- | --- |
