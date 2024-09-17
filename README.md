@@ -1,8 +1,14 @@
+## Hello 👋
+### I'm Charan, a Web Developer.
+<!---
 ### Hello There !
 
 **You have successfully reached the profile of one of the best Developers.**
 
 **Don't believe me ?.... Just check the Quality of my Projects. I assure that it'll be worth your time.**
+--->
+
+## Here are top 4 projects I've built:
 
 1. [Chat App / WhatsApp Clone](https://github.com/charan-mudiraj/Chat-App)
 2. [Get JSON - Community Tool](https://github.com/charan-mudiraj/Get-JSON---Frontend)
