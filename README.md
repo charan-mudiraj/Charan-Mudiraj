@@ -1,26 +1,43 @@
-## Hello 👋
-### I'm Charan, a Web Developer.
+# Hey there! 👋 I'm Charan
 
-## Here are top 4 projects I've built:
+### Full-Stack Engineer | React • TypeScript • Python • Django
 
-1. [Chat App / WhatsApp Clone](https://github.com/charan-mudiraj/Chat-App)
-2. [Get JSON - Community Tool](https://github.com/charan-mudiraj/Get-JSON---Frontend)
-3. [Amazon Clone](https://github.com/charan-mudiraj/Amazon-Clone)
-4. [Flash Chat - Android App](https://github.com/charan-mudiraj/Flash-Chat)
+I enjoy building products, solving interesting engineering problems, and exploring how things work under the hood.
 
-## Little About Me:
+I have experience working across the stack — from building responsive React applications and designing backend APIs to working with databases, cloud services, and AI-assisted development workflows.
 
-📚 All my Projects are displayed at: **<a href="https://bio.charan-mudiraj.top">Portfolio</a>**
+I believe in learning by building, taking ownership, and finding practical solutions to challenging problems.
 
-📫 How to reach me: **<a href="mailto:r.charan.m.gm@gmail.com">Send email</a>**
+---
 
-📝 I Write Bogs at: **<a href="https://hashnode.com/@CharanM">Hashnode</a>**
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charan-mudiraj&layout=compact)
-<!---
-![](https://leetcard.jacoblin.cool/charan-mudiraj?border=0&radius=20)
---->
-## Tech Stack
-| WebDev | MobileDev | Database |  DevOps | Programming | Other |
-| --- | --- | --- | --- | --- | --- |
-|<img src="https://skillicons.dev/icons?i=bootstrap,css,express,html,js,jquery,materialui,nodejs,react,next,tailwind,ts&perline=5" />|<img src="https://skillicons.dev/icons?i=dart,flutter" />|<img src="https://skillicons.dev/icons?i=firebase,mongodb" />|<img src="https://skillicons.dev/icons?i=docker,aws" />|<img src="https://skillicons.dev/icons?i=c,java,js" />|<img src="https://skillicons.dev/icons?i=ps" />|
+## 🚀 Featured Projects
+
+Here are some projects I've built:
+
+| Project | Description |
+|---|---|
+| [Chat App – WhatsApp Clone](https://github.com/charan-mudiraj/Chat-App) | A chat application inspired by WhatsApp. |
+| [Get JSON](https://github.com/charan-mudiraj/Get-JSON---Frontend) | A community-oriented JSON tool. |
+| [Amazon Clone](https://github.com/charan-mudiraj/Amazon-Clone) | An e-commerce application inspired by Amazon. |
+| [Flash Chat](https://github.com/charan-mudiraj/Flash-Chat) | An Android chat application. |
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend | Backend | Database | Cloud & DevOps | Languages & Other |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react,next,astro,ts,js,html,css,tailwind,bootstrap,materialui&perline=5" /> | <img src="https://skillicons.dev/icons?i=django,nodejs,express&perline=5" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&perline=5" /> | <img src="https://skillicons.dev/icons?i=aws,gcp,docker&perline=5" /> | <img src="https://skillicons.dev/icons?i=python,java,c,dart,flutter,git,github,vscode&perline=5" /> |
+
+---
+
+## ✍️ Find Me Around the Web
+
+- 🌐 Portfolio: [bio.charan-mudiraj.top](https://bio.charan-mudiraj.top)
+- 📝 Blog: [Hashnode](https://hashnode.com/@CharanM)
+- 📧 Email: [r.charan.m.gm@gmail.com](mailto:r.charan.m.gm@gmail.com)
+- 💻 GitHub: [@charan-mudiraj](https://github.com/charan-mudiraj)
+
+---
+
+*Always curious. Always building. Always learning.* 🚀
