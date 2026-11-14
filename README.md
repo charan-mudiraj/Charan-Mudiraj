@@ -33,7 +33,7 @@ Here are some projects I've built:
 
 ## ✍️ Find Me Around the Web
 
-- 🌐 Portfolio: [bio.charan-mudiraj.top](https://bio.charanmudiraj.top)
+- 🌐 Portfolio: [bio.charanmudiraj.top](https://bio.charanmudiraj.top)
 - 📝 Blog: [Hashnode](https://hashnode.com/@CharanM)
 - 📧 Email: [r.charan.m.gm@gmail.com](mailto:r.charan.m.gm@gmail.com)
 - 💻 GitHub: [@charan-mudiraj](https://github.com/charan-mudiraj)
